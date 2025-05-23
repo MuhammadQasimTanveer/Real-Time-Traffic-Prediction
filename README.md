@@ -13,11 +13,10 @@
 
 🔍 Model Types:
 
-        FNN (Feedforward Neural Network) for quick predictions
-        RNN (Recurrent Neural Network) for hourly traffic trends
-        LSTM (Long Short-Term Memory) for long-term sequence data
-        CNN (Convolutional Neural Network) for spatial data analysis
-        Hybrid Models: Combining CNNs and LSTMs to capture both spatial and temporal traffic features, improving accuracy.
+       1. FNN (Feedforward Neural Network) for quick predictions
+       2. RNN (Recurrent Neural Network) for hourly traffic trends
+       3. LSTM (Long Short-Term Memory) for long-term sequence data
+       4. CNN (Convolutional Neural Network) for spatial data analysis
 
 🗂️ Data Used
 
