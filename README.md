@@ -1,6 +1,7 @@
 # 📖 Project Overview
 
 This project focuses on predicting real-time traffic using advanced Neural Network models to reduce congestion, improve road safety, and optimize traffic flow in smart cities. It leverages AI and deep learning techniques like CNNs, LSTMs, and hybrid models for accurate forecasting based on historical, climatic, and sensor data.
+<br> 
 
 ## 🎯 Objectives
 
@@ -17,9 +18,9 @@ This project focuses on predicting real-time traffic using advanced Neural Netwo
 
 ## ⚙️ Methodology
 
-1. Data Collection & Preprocessing  
-2. Model Training & Evaluation  
-3. Real-time Traffic Prediction  
+1.  Data Collection & Preprocessing  
+2.  Model Training & Evaluation  
+3.  Real-time Traffic Prediction  
 
 ## 🚧 Challenges
 
